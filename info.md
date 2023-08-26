@@ -1,0 +1,1 @@
+This web app will load roms by uploading it to a script that runs the file! There are around 18 games you can emulate in this web app! If you want to load a save state, you need to load the rom first, then load the state!
